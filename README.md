@@ -75,7 +75,7 @@ dashboard.png
 
 ## 👤 Author
 
-**Vidya Vishnuvihar Geetha 
+**Vidya Vishnuvihar Geetha ***
 Aspiring Data Analyst  
 United Kingdom
 
